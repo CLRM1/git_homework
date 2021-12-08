@@ -5,4 +5,6 @@ Two new strategies I'll try for the rest of Mod 0 will be to never copy/paste co
 
 Zachary introduced me to some cool command short cuts like using the up arrow to see previous commands.
 
-Eli helped me better understand pseudocode. 
+Eli helped me better understand pseudocode.
+
+I like working with git and GitHub.
