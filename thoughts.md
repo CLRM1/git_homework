@@ -8,3 +8,5 @@ Zachary introduced me to some cool command short cuts like using the up arrow to
 Eli helped me better understand pseudocode.
 
 I like working with git and GitHub.
+
+Adding some new thoughts: I want to try to use iTerm instead of terminal.
